@@ -1,0 +1,3 @@
+#!/bin/bash
+luac -p lua_files/*.cfg lua_files/actions/*.cfg
+
