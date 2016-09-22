@@ -1,0 +1,2 @@
+cd "C:\Users\Eli\AppData\Local\Battle for Wesnoth 1.12.6"
+"C:\Users\Eli\AppData\Local\Battle for Wesnoth 1.12.6\wesnoth.exe" --config-dir "C:\Users\Eli\Documents\My Games\Wesnoth1.12" -d --debug-lua -m --multiplayer-repeat 1000 --scenario multiplayer_Den_of_Onis --era="EoHS: Era of High Sorcery" --side 1:EoHS_Faction --side 2:EoHS_Faction --parm 1:name:"1 Day 2inator" --parm 2:name:Elvish_Pillager --exit-at-end --controller 1:ai --controller 2:ai
